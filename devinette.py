@@ -1,5 +1,5 @@
 print("Voici la devinette")
-
+#changer 
 nombre_secret = 23
 
 nombre_utilisateur = int(input("Taper un nombre entre 0 et 100"))
